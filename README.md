@@ -19,17 +19,17 @@ I am Sifat Samin, a student at Sylhet Engineering College, passionate about web 
 
 ## Pinned Repositories
 
-### [Project 1: Learning Platform Website](https://github.com/yourusername/portfolio-website)
-A personal portfolio website to showcase my projects and skills. Built with HTML, CSS, and JavaScript.
+### [Project 1: Learning Platform Website](https://github.com/SamSkull19/EduQuest_Learning_Platform)
+A personal portfolio website to showcase my projects and skills. Built with Node.js, Express, MongoDB, React, Tailwind, CSS, DaisyUI.
 [Live Link](https://learningplatform-a19d4.web.app)
 - **Technologies:** Node.js, Express, MongoDB, React, Tailwind, CSS, DaisyUI
 
-### [Project 2: Job Portal Website](https://github.com/yourusername/todo-app)
-A simple and interactive Todo application to manage daily tasks. Built with React and Redux.
+### [Project 2: Job Portal Website](https://github.com/SamSkull19/JobVoyage_JobPortal)
+A simple and interactive Job Portal Website to manage daily job application tasks. Built with Node.js, Express, MongoDB, React, Tailwind, CSS, DaisyUI.
 [Live Link](https://jobvoyage-47a0e.web.app/)
 - **Technologies:** Node.js, Express, MongoDB, React, Tailwind, CSS, DaisyUI
 
-### [Project 3: Art & Craft Sellling Website](https://github.com/yourusername/blog-platform)
-A full-featured blog platform with user authentication and CRUD functionalities. Built with Node.js, Express, and MongoDB.
+### [Project 3: Art & Craft Sellling Website](https://github.com/SamSkull19/Art-Craft_Selling)
+A full-featured Art & Craft Sellling Website with user authentication. Built with Node.js, Express, MongoDB, React, Tailwind, CSS, DaisyUI.
 [Live Link](https://neffroxxcrafts.web.app/)
 - **Technologies:** Node.js, Express, MongoDB, React, Tailwind, CSS, DaisyUI
