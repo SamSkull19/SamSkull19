@@ -1,3 +1,5 @@
+![Blue and White Architect LinkedIn Banner (2)](https://github.com/user-attachments/assets/e00c6458-3c01-49ce-b9a8-420ea76e206f)
+
 ## About Me
 I am Sifat Samin, a student at Sylhet Engineering College, passionate about web development. Skilled in HTML, CSS, JavaScript, and React, I love creating interactive and user-friendly web applications.
 
