@@ -29,19 +29,48 @@ I am Sifat Samin, a student at Sylhet Engineering College, passionate about web 
 
 
 
-## Pinned Repositories
+## 🚀 Pinned Repositories
 
-### [Project 1: Learning Platform Website](https://github.com/SamSkull19/EduQuest_Learning_Platform)
-A personal portfolio website to showcase my projects and skills. Built with Node.js, Express, MongoDB, React, Tailwind, CSS, DaisyUI.
-[Live Link](https://learningplatform-a19d4.web.app)
-- **Technologies:** Node.js, Express, MongoDB, React, Tailwind, CSS, DaisyUI
+### 🌟 [Learning Platform Website](https://github.com/SamSkull19/EduQuest_Learning_Platform)  
+🔗 **[Live Demo](https://learningplatform-a19d4.web.app)**  
+A modern learning platform designed to provide educational resources and courses to students. It includes interactive lessons, quizzes, and forums for collaborative learning.
 
-### [Project 2: Job Portal Website](https://github.com/SamSkull19/JobVoyage_JobPortal)
-A simple and interactive Job Portal Website to manage daily job application tasks. Built with Node.js, Express, MongoDB, React, Tailwind, CSS, DaisyUI.
-[Live Link](https://jobvoyage-47a0e.web.app/)
-- **Technologies:** Node.js, Express, MongoDB, React, Tailwind, CSS, DaisyUI
+**Technologies:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A20CB?style=flat)  
 
-### [Project 3: Art & Craft Sellling Website](https://github.com/SamSkull19/Art-Craft_Selling)
-A full-featured Art & Craft Sellling Website with user authentication. Built with Node.js, Express, MongoDB, React, Tailwind, CSS, DaisyUI.
-[Live Link](https://neffroxxcrafts.web.app/)
-- **Technologies:** Node.js, Express, MongoDB, React, Tailwind, CSS, DaisyUI
+---
+
+### 💼 [Job Portal Website](https://github.com/SamSkull19/JobVoyage_JobPortal)  
+🔗 **[Live Demo](https://jobvoyage-47a0e.web.app/)**  
+An interactive job portal that helps users manage job applications efficiently with a user-friendly interface.
+
+**Technologies:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A20CB?style=flat)  
+
+---
+
+### 🎨 [Art & Craft Selling Website](https://github.com/SamSkull19/Art-Craft_Selling)  
+🔗 **[Live Demo](https://neffroxxcrafts.web.app/)**  
+A vibrant e-commerce platform for selling art and craft items. Features user authentication and a seamless shopping experience.
+
+**Technologies:**  
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)  
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=flat&logo=express&logoColor=white)  
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)  
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)  
+![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css&logoColor=white)  
+![CSS](https://img.shields.io/badge/-CSS-1572B6?style=flat&logo=css3&logoColor=white)  
+![DaisyUI](https://img.shields.io/badge/-DaisyUI-5A20CB?style=flat)  
+
