@@ -1,7 +1,13 @@
 ![Blue and White Architect LinkedIn Banner (2)](https://github.com/user-attachments/assets/e00c6458-3c01-49ce-b9a8-420ea76e206f)
 
-## About Me
-I am Sifat Samin, a student at Sylhet Engineering College, passionate about web development. Skilled in HTML, CSS, JavaScript, and React, I love creating interactive and user-friendly web applications.
+## About Me  
+Hi there! 👋  
+I'm **Sifat Samin**, a **Frontend Developer** and **CSE student** at **Sylhet Engineering College**. I specialize in building responsive, user-friendly web applications using **React**, **JavaScript**, **HTML**, **CSS**, and **Tailwind CSS**.  
+
+Currently, I’m expanding my skills in **backend development** with **Node.js** and **MongoDB**, while working on projects like **EduQuest**, a modern learning platform.  
+
+I’m passionate about solving problems, learning new technologies, and creating impactful solutions. Let’s connect and build something amazing together! 🚀  
+
 
 ## 📊 GitHub Stats
 
@@ -10,11 +16,6 @@ I am Sifat Samin, a student at Sylhet Engineering College, passionate about web 
 ## 🔝 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamSkull19&layout=compact&theme=radical)
-
-## 🔥 Streak Stats
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=SamSkull19&theme=radical)
-
 
 
 ## Skills
