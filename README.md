@@ -8,15 +8,18 @@ Currently, I’m expanding my skills in **backend development** with **Node.js**
 
 I’m passionate about solving problems, learning new technologies, and creating impactful solutions. Let’s connect and build something amazing together! 🚀  
 
+## 🔥 Contribution Streak
+[![GitHub Streak](https://streak-stats.demolab.com/?user=SamSkull19&theme=radical)](https://git.io/streak-stats)
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamSkull19&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ## 🔝 Top Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SamSkull19&layout=compact&theme=radical)
 
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SamSkull19&show_icons=true&theme=radical&include_all_commits=true&count_private=true)
 
 ## Skills
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
